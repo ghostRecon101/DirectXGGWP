@@ -1,0 +1,6 @@
+﻿  main.cpp
+  d3dclass.cpp
+c:\users\rc tech 2\source\repos\directxtuts\directxtuts\d3dclass.cpp(39): warning C4101: 'error': unreferenced local variable
+c:\users\rc tech 2\source\repos\directxtuts\directxtuts\d3dclass.cpp(36): warning C4101: 'stringLength': unreferenced local variable
+  Generating Code...
+  DirectXTuts.vcxproj -> C:\Users\Rc Tech 2\source\repos\DirectXTuts\Debug\DirectXTuts.exe
