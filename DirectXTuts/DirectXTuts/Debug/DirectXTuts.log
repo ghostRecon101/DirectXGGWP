@@ -1,4 +1,9 @@
-﻿  main.cpp
+﻿  graphicsclass.cpp
+c:\users\rc tech 2\source\repos\directxtuts\directxtuts\graphicsclass.cpp(30): warning C4316: 'D3DClass': object allocated on the heap may not be aligned 16
+  Generating Code...
+  Compiling...
+  systemclass.cpp
+  main.cpp
   d3dclass.cpp
 c:\users\rc tech 2\source\repos\directxtuts\directxtuts\d3dclass.cpp(39): warning C4101: 'error': unreferenced local variable
 c:\users\rc tech 2\source\repos\directxtuts\directxtuts\d3dclass.cpp(36): warning C4101: 'stringLength': unreferenced local variable
